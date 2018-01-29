@@ -4,8 +4,8 @@ When discussing blockchains, the term “[protocol](https://blog.0xproject.com/t
 
 #### Protocol -&gt; Model -&gt; Approach
 
-We decided that the term "ICO Protocol" is too strict.  
-In many cases term "ICO Model" is used instead. However, we are using the term "Approach" in this document because this document is more about providing you with different real-world examples, then about strict classification. Many properties of these approaches can be combined together.
+We decided that "ICO Protocol" term is too strict.  
+In many articles "ICO Model" term is used instead. However, we are using "Approach" in this document because this document is more about providing you with different real-world examples, then about strict classification. Remember, that many properties of these approaches can be combined together.
 
 ### **1 - Reverse Dutch Auction approach \(Gnosis, RaidenNetwork, OraclesNetwork\)**
 
@@ -37,7 +37,7 @@ There are two possible outcomes for the Investor:
 
 #### **Example - Raiden Network**
 
-[**https://medium.com/@raiden\_network/the-raiden-token-auction-explained-1cc0c7946b26**](https://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26)**                      
+[**https://medium.com/@raiden\_network/the-raiden-token-auction-explained-1cc0c7946b26**](https://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26)**                        
 **![](https://lh5.googleusercontent.com/Wf_ZvwO_l8qQ69dGIvxzbvUm_PY0QM3AHf29jQV4zoWl2cs8_95bL0ImtPyBdtHjfZSRBKiFxKTcGoYzQ9QKU7qrN5_1jGjpqwng6Ch_XQUm8AxfrO5TVpXzpBv9nZQwuQ)  
 **Example - Oracles Network**![](https://lh3.googleusercontent.com/rLzw4S6hFlduK5re3h1rQwGsN5cvVfkdh0OaSTH_hsiaOQPlklqajqeqwZAspdU7pT2y6gmsiLY2Wc9NnxtVaWAZm_i6W8b9pzf6AGIayt1J1w8ElRdSr7_-3Yw3aKI9aA)
 
@@ -66,7 +66,7 @@ Personal Cap is the specified LIMIT of the total amount of ETH raised in the sal
 [**https://github.com/ChainCloud/angel-contracts**](https://github.com/ChainCloud/angel-contracts)
 
 [**https://bitcointalk.org/index.php?topic=2385917.0;all**](https://bitcointalk.org/index.php?topic=2385917.0;all)  
-**                    
+**                      
 **“You can invest in the Angel Token ICO knowing that there is an immutable Ethereum Smart Contract protecting the bulk of your Ethereum investment.
 
 During the first 5 months you can be involved in the community and talk to the Founders, and see the initial investments and trades being made with the Ethereum raised, as well as benefit from any potential price increases of Angel Token as it gets listed on the exchanges.
@@ -95,7 +95,7 @@ The nice part of this design is that you get the benefits of both a capped and u
 
 ### **7 - Inflation Funding approach \(still in development\)**
 
-[**https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf                    
+[**https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf                      
 **](https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf)[**https://forum.livepeer.org/t/an-overview-of-bonding/97**](https://forum.livepeer.org/t/an-overview-of-bonding/97)
 
 This is a variation of the “Continuous Token Model" mentioned above.
@@ -184,6 +184,6 @@ EOS ICO has multiple rounds with fixed amount of tokens but unlimited amount of 
 
 "ICO is divided into two phases, period 1 distributes 20% of EOS, period 2 distributes 70%. Phase 2 is split into 350 consecutive 23 hours periods, selling 2 mln. EOS tokens each period."
 
-**                      
+**                        
 **
 
