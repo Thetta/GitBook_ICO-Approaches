@@ -19,7 +19,5 @@
   * [DAICO](models_daico.md)
   * [Bonded Token Presale approach](models_bonded_presale.md)
   * [Microrounded Auction approach](models_microrounded_auction.md)
-  
 * [3 - Experimental ICO Approaches](3-experimental-ico-models.md)
 * [4 - Not classified](4-not-classified.md)
-
