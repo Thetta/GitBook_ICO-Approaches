@@ -1,4 +1,4 @@
-### **3 - Variable Token Vesting approach \(Filecoin\)**
+### **Variable Token Vesting approach \(Filecoin\)**
 
 [**https://coinlist.co/assets/index/filecoin\_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf**](https://coinlist.co/assets/index/filecoin_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf)
 
