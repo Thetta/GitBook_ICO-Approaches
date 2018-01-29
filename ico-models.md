@@ -1,9 +1,13 @@
-## **ICO Models**
+## What is an "ICO approach**"?**
 
-Please notice that the goal of these document is not to provide an orthogonal classification of different ICO options.  
-Some/many properties of these approaches can be combined together.
+When discussing blockchains, the term “[protocol](https://blog.0xproject.com/the-difference-between-app-coins-and-protocol-tokens-7281a428348c)” is typically used to refer to the set of cryptoeconomic rules that maintain distributed consensus across a peer-to-peer network. In this sense of the term, there is one protocol per blockchain and one native token per protocol \(with a few exceptions\). However, blockchain consensus isn’t the only use case for cryptoeconomic protocols. More generally, cryptoeconomic protocols create financial incentives that drive a network of rational economic agents to coordinate their behavior towards the completion of a process.
 
-### **1 - Reverse Dutch Auction model \(Gnosis, RaidenNetwork, OraclesNetwork\)**
+#### Protocol -&gt; Model -&gt; Approach
+
+We decided that the term "ICO Protocol" is too strict.  
+In many cases term "ICO Model" is used instead. However, we are using the term "Approach" in this document because this document is more about providing you with different real-world examples, then about strict classification. Many properties of these approaches can be combined together.
+
+### **1 - Reverse Dutch Auction approach \(Gnosis, RaidenNetwork, OraclesNetwork\)**
 
 [**https://medium.com/@nickikwhite\_5051/token-sale-models-part-ii-price-schedules-b36716a1a9de**](https://medium.com/@nickikwhite_5051/token-sale-models-part-ii-price-schedules-b36716a1a9de)
 
@@ -33,11 +37,11 @@ There are two possible outcomes for the Investor:
 
 #### **Example - Raiden Network**
 
-[**https://medium.com/@raiden\_network/the-raiden-token-auction-explained-1cc0c7946b26**](https://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26)**                
+[**https://medium.com/@raiden\_network/the-raiden-token-auction-explained-1cc0c7946b26**](https://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26)**                      
 **![](https://lh5.googleusercontent.com/Wf_ZvwO_l8qQ69dGIvxzbvUm_PY0QM3AHf29jQV4zoWl2cs8_95bL0ImtPyBdtHjfZSRBKiFxKTcGoYzQ9QKU7qrN5_1jGjpqwng6Ch_XQUm8AxfrO5TVpXzpBv9nZQwuQ)  
 **Example - Oracles Network**![](https://lh3.googleusercontent.com/rLzw4S6hFlduK5re3h1rQwGsN5cvVfkdh0OaSTH_hsiaOQPlklqajqeqwZAspdU7pT2y6gmsiLY2Wc9NnxtVaWAZm_i6W8b9pzf6AGIayt1J1w8ElRdSr7_-3Yw3aKI9aA)
 
-### **2 - Interactive Coin Offering model \(Truebit\)**
+### **2 - Interactive Coin Offering approach \(Truebit\)**
 
 [**https://people.cs.uchicago.edu/~teutsch/papers/ico.pdf**](https://people.cs.uchicago.edu/~teutsch/papers/ico.pdf)
 
@@ -49,7 +53,7 @@ There are two possible outcomes for the Investor:
 
 Personal Cap is the specified LIMIT of the total amount of ETH raised in the sale for a participant. If the total amount of ETH raised in the sale is more than the personal cap, the contributor will be removed from the sale or poked out”.
 
-### **3 - Variable Token Vesting model \(Filecoin\)**
+### **3 - Variable Token Vesting approach \(Filecoin\)**
 
 [**https://coinlist.co/assets/index/filecoin\_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf**](https://coinlist.co/assets/index/filecoin_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf)
 
@@ -57,19 +61,19 @@ Personal Cap is the specified LIMIT of the total amount of ETH raised in the sal
 
 “Investors in the Filecoin ICO were presented with several options of discounts and lock-up times. They could choose a 6 month lock-up for 0% discount, 1 year lock-up for 7.5% discount, 2 year lock-up for 15% discount and a 3 year lock-up for 20% discount. Although I’ve been using the term “lock-up,” in the case of Filecoin’s ICO, the correct nomenclature would be “vesting.” In order to avoid a flood of new tokens in the market that would arrive all at once when the lock-up period ends, Filecoin chose to vest its tokens to investors at a constant rate over time, issuing a fraction of them every time a new block was added to the blockchain. This ensures a slow trickle of tokens coming online which should help keep the token price, and the overall network, stable.”![](https://lh5.googleusercontent.com/zEcV5YsuBETUYHH8lPB_yOJBnyazu-pZxK3tvhhJPPoroXdfHXHtzEcEmFYELbwmar3COLNFuDSn-ZnWFYOyrhbrpriIJj7zmHMAhQEDJ09uQsflaotoBtYRYJOx12kqDg)
 
-### **4 - Simple “old school” capped ICO with Discounted Refunds model \(Angel-tokens\)**
+### **4 - Simple “old school” capped ICO with Discounted Refunds approach \(Angel-tokens\)**
 
 [**https://github.com/ChainCloud/angel-contracts**](https://github.com/ChainCloud/angel-contracts)
 
 [**https://bitcointalk.org/index.php?topic=2385917.0;all**](https://bitcointalk.org/index.php?topic=2385917.0;all)  
-**              
+**                    
 **“You can invest in the Angel Token ICO knowing that there is an immutable Ethereum Smart Contract protecting the bulk of your Ethereum investment.
 
 During the first 5 months you can be involved in the community and talk to the Founders, and see the initial investments and trades being made with the Ethereum raised, as well as benefit from any potential price increases of Angel Token as it gets listed on the exchanges.
 
 If, for any reason during the first 5 months, you wish to no longer be involved, then as an ICO investor you can return your tokens. You will receive back up to 80% of the invested Ether amount, \(80% during the first 100 days and 40% during the next 50 days\).“
 
-### **5 - Proportional Token Allocation aka Proportional Refund model \(still in development\)**
+### **5 - Proportional Token Allocation aka Proportional Refund approach \(still in development\)**
 
 [**https://github.com/ethereum/EIPs/issues/642**](https://github.com/ethereum/EIPs/issues/642)
 
@@ -79,7 +83,7 @@ If, for any reason during the first 5 months, you wish to no longer be involved,
 
 The nice part of this design is that you get the benefits of both a capped and uncapped sale. As in an uncapped sale, anyone can contribute to the sale and get a piece of the pie. And like in a capped sale, investors know the price at which they are buying the tokens, even if they may not know how many tokens they will end up getting. This sounds good on the surface, but it still doesn’t resolve the issue of being excluded from the sale by big players. Certainly you will always be able to contribute to the sale and get at least a small fraction of the tokens sold, but if a few whales put up 95% of the total ETH in the sale, then only 5% will go to the smaller players. And there’s nothing stopping a whale from majorly over allocating to the sale just to push other players out.”
 
-### **6 - Continuous Token aka Safe Token aka NoICO model \(Bitcoin, etc\)**
+### **6 - Continuous Token Model aka Safe Token aka NoICO approach \(Bitcoin, etc\)**
 
 [**https://medium.com/@simondlr/continuous-token-curated-registries-the-infinity-of-lists-69024c9eb70d**](https://medium.com/@simondlr/continuous-token-curated-registries-the-infinity-of-lists-69024c9eb70d)
 
@@ -89,12 +93,12 @@ The nice part of this design is that you get the benefits of both a capped and u
 
 “The idea is that instead of pre-selling tokens during a launch phase, the tokens are minted as needed through various means. The tokens are then dispensed for services rendered in the network.”
 
-### **7 - Inflation Funding model \(still in development\)**
+### **7 - Inflation Funding approach \(still in development\)**
 
-[**https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf              
+[**https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf                    
 **](https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf)[**https://forum.livepeer.org/t/an-overview-of-bonding/97**](https://forum.livepeer.org/t/an-overview-of-bonding/97)
 
-This is a variation of the “Continuous Token” model mentioned above.
+This is a variation of the “Continuous Token Model" mentioned above.
 
 “An algorithmically adjusting token issuance model for stake based protocols, where high quality participation is vital to the quality and security of the network. The case for such a model in this type of network is as follows:
 
@@ -116,7 +120,7 @@ The result of working through these assumptions is that a protocol can set a par
 
 A protocol which provides strong incentives for people to improve it is likely to evolve faster than one that does not. So blockchains which fund innovation through token inflation would seem to have a superior evolutionary algorithm. And over the long run, rate of change is often more important than starting point”.
 
-### **8 - Curated Lists model \(1Hive\)**
+### **8 - Curated Lists approach \(1Hive\)**
 
 [**https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5**](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
 
@@ -144,7 +148,7 @@ Depending on the design: the ETH that is used to mint the tokens are either kept
 
 A user can opt to voluntarily leave without selling on the secondary market. When leaving, a user can take a portion of the communal pool with them as reward. This reduces the supply and the subsequent cost to enter is also thus decreased”.
 
-### **9 - DAICO aka Tapped ICO model \(by Vitalik Buterin\)**
+### **9 - DAICO aka Tapped ICO approach \(by Vitalik Buterin\)**
 
 [**https://ethresear.ch/t/explanation-of-daicos/465**](https://ethresear.ch/t/explanation-of-daicos/465)
 
@@ -160,7 +164,7 @@ Either resolution can pass by some kind of majority vote with a quorum \(eg. yes
 
 The intention is that the voters start off by giving the development team a reasonable and not-too-high monthly budget, and raise it over time as the team demonstrates its ability to competently execute with its existing budget. If the voters are very unhappy with the development team’s progress, they can always vote to shut the DAICO down entirely and get their money back”.
 
-### 10** - Bonded Token Presale model \(Debt Payable Assets by Dharma/Republic\)**
+### 10** - Bonded Token Presale approach \(Debt Payable Assets by Dharma/Republic\)**
 
 [**https://blog.dharma.io/tokenized-debt-payable-by-assets-dpas-ba61d968c401**](https://blog.dharma.io/tokenized-debt-payable-by-assets-dpas-ba61d968c401)
 
@@ -174,12 +178,12 @@ In the most basic construction, these bonds would have some sort of fixed yield 
 
 Notice that \[in the ICO contract\], until the repayment conditions defined in the terms contract are satisfied, the funds raised in the token crowdsale are frozen. Thus, companies raising funds in a bonded token pre-sale are strongly incented to repay their debts, lest they lose access to their eventual token sale proceeds.”
 
-### 11** - Microrounded Auction model \(EOS\)**
+### 11** - Microrounded Auction approach \(EOS\)**
 
 EOS ICO has multiple rounds with fixed amount of tokens but unlimited amount of money raised. As a result, you won't know the valuation until the end of the round.
 
 "ICO is divided into two phases, period 1 distributes 20% of EOS, period 2 distributes 70%. Phase 2 is split into 350 consecutive 23 hours periods, selling 2 mln. EOS tokens each period."
 
-**                
+**                      
 **
 

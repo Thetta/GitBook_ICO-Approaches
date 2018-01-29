@@ -1,7 +1,5 @@
 ## ICO Features to consider
 
-
-
 ### **1 - Multi-round AKA Multi-series**
 
 “[If we want to strike](http://vitalik.ca/general/2017/06/09/sales.html) at the heart of this problem, how would we solve it? I would say the answer is simple: start moving to mechanisms other than single round sales”.
@@ -84,11 +82,7 @@ There is an option to collectively pool the resources and to get a “Volume Dis
 
 See [Tezos](http://tezos.com) as an example of this: ** **![](https://lh6.googleusercontent.com/Ny_Bto2_wnbSJSfvH68CqQKrOe39HvvleZb6olyC2U0olV3dAW_qp50IyH0iIv_cqaFbyj6TFhgDPZrywDDMgbUVKqiLyT-2Elget-vIwr2sUThZMsOkdp2fam5ma8NW9XO8h1eK)
 
-### 6** - Reverse ICO **
 
-[**https://blog.bigchaindb.com/tokenize-bits-and-atoms-6f2ed6800ba6**](https://blog.bigchaindb.com/tokenize-bits-and-atoms-6f2ed6800ba6)
 
-[**https://medium.com/@harrymclaverty/reverse-icos-the-soundcloud-exit-strategy-almost-no-one-is-talking-about-651f4ef1f88e**](https://medium.com/@harrymclaverty/reverse-icos-the-soundcloud-exit-strategy-almost-no-one-is-talking-about-651f4ef1f88e)
 
-“Companies undergo ‘Reverse IPOs’ as a simpler and quicker way of ‘going public’. A private company finds a typically underperforming public company and buys enough shares to control it. They then strip away everything but the organisational structure of the public company rendering it a shell, before completing a ‘share swap’ where shareholders in the private company swap their shares for shares in the shell company — rendering the private company public \(Example:[Burger King](http://www.reuters.com/article/us-burgerking-stock-idUSBRE85J0PW20120620%29)\).”
 
