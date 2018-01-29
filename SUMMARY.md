@@ -8,6 +8,18 @@
   * [Disable Transfers](options_disabled_transfers.md)
   * [Roadmap dependent on token sale proceeds](options_proceeds_roadmap.md)
 * [2 - ICO Approaches](2-ico-models.md)
+  * [Dutch Auction](models_dutch_auction.md)
+  * [Interactive Coin Offering](models_interactive_coin_offering.md)
+  * [Variable Token Vesting](models_vtv.md)
+  * [Discounted Refunds](models_discounted_refunds.md)
+  * [Proportional Token Allocation aka Proportional Refund approach](models_pta.md)
+  * [Continuous Token Model aka Safe Token aka NoICO approach](models_continuous_token_model.md)
+  * [Inflation Funding approach](models_inflation_funding.md)
+  * [Curated List approach](models_curated_list.md)
+  * [DAICO](models_daico.md)
+  * [Bonded Token Presale approach](models_bonded_presale.md)
+  * [Microrounded Auction approach](models_microrounded_auction.md)
+  
 * [3 - Experimental ICO Approaches](3-experimental-ico-models.md)
 * [4 - Not classified](4-not-classified.md)
 
