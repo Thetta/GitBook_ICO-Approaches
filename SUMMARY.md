@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [ICO Options](ico-options.md)
-* [ICO Models](ico-models.md)
+* [1 - ICO Features to consider](ico-options.md)
+* [2 - ICO Models](ico-models.md)
+* [3 - Experimental ICO Models](3-experimental-ico-models.md)
 

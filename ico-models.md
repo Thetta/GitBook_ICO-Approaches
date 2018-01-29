@@ -1,8 +1,9 @@
 ## **ICO Models**
 
+Please notice that the goal of these document is not to provide an orthogonal classification of different ICO options.  
 Some/many properties of these approaches can be combined together.
 
-### **1 - Reverse Dutch Auction model \(Gnosis, RaidenNetwork, OraclesNetwork, etc\)**
+### **1 - Reverse Dutch Auction model \(Gnosis, RaidenNetwork, OraclesNetwork\)**
 
 [**https://medium.com/@nickikwhite\_5051/token-sale-models-part-ii-price-schedules-b36716a1a9de**](https://medium.com/@nickikwhite_5051/token-sale-models-part-ii-price-schedules-b36716a1a9de)
 
@@ -32,7 +33,7 @@ There are two possible outcomes for the Investor:
 
 #### **Example - Raiden Network**
 
-[**https://medium.com/@raiden\_network/the-raiden-token-auction-explained-1cc0c7946b26**](https://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26)**    
+[**https://medium.com/@raiden\_network/the-raiden-token-auction-explained-1cc0c7946b26**](https://medium.com/@raiden_network/the-raiden-token-auction-explained-1cc0c7946b26)**                
 **![](https://lh5.googleusercontent.com/Wf_ZvwO_l8qQ69dGIvxzbvUm_PY0QM3AHf29jQV4zoWl2cs8_95bL0ImtPyBdtHjfZSRBKiFxKTcGoYzQ9QKU7qrN5_1jGjpqwng6Ch_XQUm8AxfrO5TVpXzpBv9nZQwuQ)  
 **Example - Oracles Network**![](https://lh3.googleusercontent.com/rLzw4S6hFlduK5re3h1rQwGsN5cvVfkdh0OaSTH_hsiaOQPlklqajqeqwZAspdU7pT2y6gmsiLY2Wc9NnxtVaWAZm_i6W8b9pzf6AGIayt1J1w8ElRdSr7_-3Yw3aKI9aA)
 
@@ -61,7 +62,7 @@ Personal Cap is the specified LIMIT of the total amount of ETH raised in the sal
 [**https://github.com/ChainCloud/angel-contracts**](https://github.com/ChainCloud/angel-contracts)
 
 [**https://bitcointalk.org/index.php?topic=2385917.0;all**](https://bitcointalk.org/index.php?topic=2385917.0;all)  
-**  
+**              
 **“You can invest in the Angel Token ICO knowing that there is an immutable Ethereum Smart Contract protecting the bulk of your Ethereum investment.
 
 During the first 5 months you can be involved in the community and talk to the Founders, and see the initial investments and trades being made with the Ethereum raised, as well as benefit from any potential price increases of Angel Token as it gets listed on the exchanges.
@@ -90,7 +91,7 @@ The nice part of this design is that you get the benefits of both a capped and u
 
 ### **7 - Inflation Funding model \(still in development\)**
 
-[**https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf  
+[**https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf              
 **](https://medium.com/@petkanics/inflation-and-participation-in-stake-based-token-protocols-1593688612bf)[**https://forum.livepeer.org/t/an-overview-of-bonding/97**](https://forum.livepeer.org/t/an-overview-of-bonding/97)
 
 This is a variation of the “Continuous Token” model mentioned above.
@@ -115,15 +116,13 @@ The result of working through these assumptions is that a protocol can set a par
 
 A protocol which provides strong incentives for people to improve it is likely to evolve faster than one that does not. So blockchains which fund innovation through token inflation would seem to have a superior evolutionary algorithm. And over the long run, rate of change is often more important than starting point”.
 
-### **8 - Curated Lists model \(1Hive, etc\)**
+### **8 - Curated Lists model \(1Hive\)**
 
 [**https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5**](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5)
 
 [**https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881**](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881)
 
 [**https://medium.com/@lkngtn/district0x-feedback-2-building-a-strong-network-effect-d629da10d5f6**](https://medium.com/@lkngtn/district0x-feedback-2-building-a-strong-network-effect-d629da10d5f6)
-
-Great overview of Curation Markets is available here:
 
 [**https://docs.google.com/document/d/1VNkBjjGhcZUV9CyC0ccWYbqeOoVKT2maqX0rK3yXB20/edit?usp=sharing**](https://docs.google.com/document/d/1VNkBjjGhcZUV9CyC0ccWYbqeOoVKT2maqX0rK3yXB20/edit?usp=sharing)
 
@@ -161,22 +160,26 @@ Either resolution can pass by some kind of majority vote with a quorum \(eg. yes
 
 The intention is that the voters start off by giving the development team a reasonable and not-too-high monthly budget, and raise it over time as the team demonstrates its ability to competently execute with its existing budget. If the voters are very unhappy with the development team’s progress, they can always vote to shut the DAICO down entirely and get their money back”.
 
-### **10 - Initial Bounty Offering \(U.cash\)**
+### 10** - Bonded Token Presale model \(Debt Payable Assets by Dharma/Republic\)**
 
-[**https://cointelegraph.com/explained/how-initial-bounty-offering-can-help-the-unbanked-explained**](https://cointelegraph.com/explained/how-initial-bounty-offering-can-help-the-unbanked-explained)
+[**https://blog.dharma.io/tokenized-debt-payable-by-assets-dpas-ba61d968c401**](https://blog.dharma.io/tokenized-debt-payable-by-assets-dpas-ba61d968c401)
 
-“An Initial Bounty Offering differs from the well-known Initial Coin Offering in that users can acquire tokens by completing bounties.”
+[**https://republic.co/token-dpa**](https://republic.co/token-dpa)
 
+[**https://blog.dharma.io/bonded-token-pre-sales-with-dharma-protocol-2e7ec73e2915**](https://blog.dharma.io/bonded-token-pre-sales-with-dharma-protocol-2e7ec73e2915)
 
+“A mechanism for financing token sales by issuing collateralized, tokenized bonds. These bonded token **pre-sales**, as we call them, are collateralized not by a company’s existing assets, but, rather, by the future proceeds of their forthcoming token sale.
 
-  
-  
+In the most basic construction, these bonds would have some sort of fixed yield that would pay out on a non-amortized basis — i.e. if you invest X ether into the presale bond at a Y% yield, you receive tokens representing your rights to a future payout of X \* \(100% + Y%\) when the eventual public token sale happens.
 
+Notice that \[in the ICO contract\], until the repayment conditions defined in the terms contract are satisfied, the funds raised in the token crowdsale are frozen. Thus, companies raising funds in a bonded token pre-sale are strongly incented to repay their debts, lest they lose access to their eventual token sale proceeds.”
 
-  
-  
+### 11** - Microrounded Auction model \(EOS\)**
 
+EOS ICO has multiple rounds with fixed amount of tokens but unlimited amount of money raised. As a result, you won't know the valuation until the end of the round.
 
-**    
+"ICO is divided into two phases, period 1 distributes 20% of EOS, period 2 distributes 70%. Phase 2 is split into 350 consecutive 23 hours periods, selling 2 mln. EOS tokens each period."
+
+**                
 **
 

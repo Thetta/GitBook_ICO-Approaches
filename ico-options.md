@@ -1,8 +1,8 @@
-## ICO **Options \(Unsorted\)**
+## ICO Features to consider
 
-Many of these options can be combined together.
 
-### **1 - Multi-round ICO aka Multi-series ICO**
+
+### **1 - Multi-round AKA Multi-series**
 
 “[If we want to strike](http://vitalik.ca/general/2017/06/09/sales.html) at the heart of this problem, how would we solve it? I would say the answer is simple: start moving to mechanisms other than single round sales”.
 
@@ -48,7 +48,9 @@ While the above partially solves the problem of having the founders run away wit
 
 * A discount on the market price needs to be given at each token sale round
 
-### **2 - Forecasting \(Wings\)**
+### **2 - Forecasting**
+
+See [Wings](/wings.ai) as an example of this approach:
 
 In addition to governance layer, the WINGS platform also provides a decentralized forecasting mechanism, enabling the token holders to estimate the probability of a certain event in the project life-cycle, such as:
 
@@ -62,7 +64,7 @@ After the crowd sale has completed, the WINGS token owners are rewarded accordin
 
 Forecasting does not affect the project ICO parameters.
 
-### **3 - Should token transfers be prohibited during or after the ICO?**
+### **3 - Prohibited token transfers during or after the ICO**
 
 “[I do NOT endorse locking](https://medium.com/@VitalikButerin/when-i-see-voting-games-i-usually-analyze-i-51-attacks-and-ii-bribe-attacks-looking-here-da7412a4a217) tokens to prevent trading. This is likely to just result in wrapper contracts, especially since we’ve seen a wrapper reverse dutch auction for Status already”.
 
@@ -72,23 +74,21 @@ When the Status ICO was held and token transfers were prohibited, [some guy](htt
 
 In the same way, any developer that has “vested” or “locked” tokens can issue IOUs with a lower/higher price. See an example of a so-called “Token Release Schedule” - [https://blog.aion.network/publicsaleupdate-fa92cff05aed](https://blog.aion.network/publicsaleupdate-fa92cff05aed)
 
-### **4 - Volume Discount**
-
-**“Buy at least $50000 of coins and get 20% more”**![](https://lh4.googleusercontent.com/Fst2mDK-7AQEqRQuEs6sEmJ1AvnpikMXm206CgNv_NXN-yRC8rzAcvetbvvwGovTF-TuJPtODLBU1NwDNXSqDVtTff6aGIhhisbLSSdNJLvcbjYQ8QXxRZGvjd9Qm0qqfJkQ5Aye)
+### **4 - Volume Discount \(AKA “buy at least $50000 of coins and get 20% more”\)**![](https://lh4.googleusercontent.com/Fst2mDK-7AQEqRQuEs6sEmJ1AvnpikMXm206CgNv_NXN-yRC8rzAcvetbvvwGovTF-TuJPtODLBU1NwDNXSqDVtTff6aGIhhisbLSSdNJLvcbjYQ8QXxRZGvjd9Qm0qqfJkQ5Aye)
 
 There is an option to collectively pool the resources and to get a “Volume Discount”. Please see the description here -[https://hackernoon.com/hacking-a-popular-ico-practice-that-only-rewards-the-richer-7d10b2019f1e](https://hackernoon.com/hacking-a-popular-ico-practice-that-only-rewards-the-richer-7d10b2019f1e)
 
 “One concern about this approach is that it creates a KYC/AML mess. Only one address would go through KYC and the participants of the pool wouldn't. The person deploying the contract would probably have to go through KYC and somehow be responsible for the KYC of the accounts joining the pool.”
 
-### **5 - Roadmap dependent on token sale proceeds \(Tezos\) **![](https://lh6.googleusercontent.com/Ny_Bto2_wnbSJSfvH68CqQKrOe39HvvleZb6olyC2U0olV3dAW_qp50IyH0iIv_cqaFbyj6TFhgDPZrywDDMgbUVKqiLyT-2Elget-vIwr2sUThZMsOkdp2fam5ma8NW9XO8h1eK)
+### **5 - Roadmap dependent on token sale proceeds**
 
-**    
-**
+See [Tezos](http://tezos.com) as an example of this: ** **![](https://lh6.googleusercontent.com/Ny_Bto2_wnbSJSfvH68CqQKrOe39HvvleZb6olyC2U0olV3dAW_qp50IyH0iIv_cqaFbyj6TFhgDPZrywDDMgbUVKqiLyT-2Elget-vIwr2sUThZMsOkdp2fam5ma8NW9XO8h1eK)
 
-**    
-**
+### 6** - Reverse ICO **
 
-\*\*
+[**https://blog.bigchaindb.com/tokenize-bits-and-atoms-6f2ed6800ba6**](https://blog.bigchaindb.com/tokenize-bits-and-atoms-6f2ed6800ba6)
 
-\*\*
+[**https://medium.com/@harrymclaverty/reverse-icos-the-soundcloud-exit-strategy-almost-no-one-is-talking-about-651f4ef1f88e**](https://medium.com/@harrymclaverty/reverse-icos-the-soundcloud-exit-strategy-almost-no-one-is-talking-about-651f4ef1f88e)
+
+“Companies undergo ‘Reverse IPOs’ as a simpler and quicker way of ‘going public’. A private company finds a typically underperforming public company and buys enough shares to control it. They then strip away everything but the organisational structure of the public company rendering it a shell, before completing a ‘share swap’ where shareholders in the private company swap their shares for shares in the shell company — rendering the private company public \(Example:[Burger King](http://www.reuters.com/article/us-burgerking-stock-idUSBRE85J0PW20120620%29)\).”
 
