@@ -2,7 +2,7 @@
 
 Here at [Thetta.io](https://web.thetta.io) our goal is to protect all parties: investors, core team, community and our clients. We spent many days discussing and analyzing what options we have. So we came up with a list of different ICO options, approaches and models.
 
-**Disclaimer: Please notice that the goal of these document is not to provide an orthogonal classification of different ICO options. Some/many properties of these approaches can be combined together. This document \(at least, in its current state\) should be considered as an unsorted list of different ICO approaches. **
+**Disclaimer: Please notice that the goal of this document is not to provide an orthogonal classification of different ICO options. Some/many properties of these approaches can be combined together. This document \(at least, in its current state\) should be considered as an unsorted list of different ICO approaches and options. **
 
 ### Your help is Greatly Appreciated and Welcome!
 
