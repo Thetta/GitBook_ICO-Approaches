@@ -1,0 +1,7 @@
+### **3 - Variable Token Vesting approach \(Filecoin\)**
+
+[**https://coinlist.co/assets/index/filecoin\_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf**](https://coinlist.co/assets/index/filecoin_index/Filecoin-Sale-Economics-e3f703f8cd5f644aecd7ae3860ce932064ce014dd60de115d67ff1e9047ffa8e.pdf)
+
+[**https://blog.aion.network/publicsaleupdate-fa92cff05aed**](https://blog.aion.network/publicsaleupdate-fa92cff05aed)
+
+“Investors in the Filecoin ICO were presented with several options of discounts and lock-up times. They could choose a 6 month lock-up for 0% discount, 1 year lock-up for 7.5% discount, 2 year lock-up for 15% discount and a 3 year lock-up for 20% discount. Although I’ve been using the term “lock-up,” in the case of Filecoin’s ICO, the correct nomenclature would be “vesting.” In order to avoid a flood of new tokens in the market that would arrive all at once when the lock-up period ends, Filecoin chose to vest its tokens to investors at a constant rate over time, issuing a fraction of them every time a new block was added to the blockchain. This ensures a slow trickle of tokens coming online which should help keep the token price, and the overall network, stable.”![](https://lh5.googleusercontent.com/zEcV5YsuBETUYHH8lPB_yOJBnyazu-pZxK3tvhhJPPoroXdfHXHtzEcEmFYELbwmar3COLNFuDSn-ZnWFYOyrhbrpriIJj7zmHMAhQEDJ09uQsflaotoBtYRYJOx12kqDg)
