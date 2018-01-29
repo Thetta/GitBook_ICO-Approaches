@@ -1,13 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [1 - ICO Features to consider](1-ico-options.md)
+* [ICO Features to consider](1-ico-options.md)
   * [Multiround](options_multiround.md)
   * [Forecasting](options_forecasting.md)
   * [Volume Discount](options_discount.md)
   * [Disable Transfers](options_disabled_transfers.md)
   * [Roadmap dependent on token sale proceeds](options_proceeds_roadmap.md)
-* [2 - ICO Approaches](2-ico-models.md)
+* [ICO Approaches](2-ico-models.md)
   * [Dutch Auction](models_dutch_auction.md)
   * [Interactive Coin Offering](models_interactive_coin_offering.md)
   * [Variable Token Vesting](models_vtv.md)
