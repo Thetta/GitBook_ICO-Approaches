@@ -4,8 +4,6 @@ Here at [Thetta.io](https://web.thetta.io) our goal is to protect all parties: i
 
 **Disclaimer: Please notice that the goal of these document is not to provide an orthogonal classification of different ICO options. Some/many properties of these approaches can be combined together. This document \(at least, in its current state\) should be considered as an unsorted list of different ICO approaches. **
 
-
-
 ### Your help is Greatly Appreciated and Welcome!
 
 Feel free to update and fix!
