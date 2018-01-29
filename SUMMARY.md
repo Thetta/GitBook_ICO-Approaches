@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Different ICO Options](first-question.md)
-* [How can I do X?](second-question.md)
+* [ICO Options](ico-options.md)
+* [ICO Models](ico-models.md)
 
