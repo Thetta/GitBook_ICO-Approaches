@@ -14,27 +14,31 @@ Feel free to update and fix.
 
 ## **Credits**
 
-1. **Anton Akentiev** - [http://medium.com/chain-cloud-company-blog](http://medium.com/chain-cloud-company-blog)
+1. **Anton Akentiev** - [http://medium.com/thetta](http://medium.com/thetta)
 
-2. **William Schwab**
+2. **Kirill Guzenko** - [http://medium.com/thetta](http://medium.com/thetta)
 
-3. **Adolfo Fierro**
+3. **William Schwab**
 
-4. **Joao Leme** - [https://github.com/joaocarlosleme](https://github.com/joaocarlosleme)
+4. **Adolfo Fierro**
 
-5. **Samuel Sendon II**
+5. **Joao Leme** - [https://github.com/joaocarlosleme](https://github.com/joaocarlosleme)
 
-6. **Michael Zargham**
+6. **Samuel Sendon II**
 
-7. **Jonathan Greenglass**
+7. **Michael Zargham**
 
-8. **Giulio Di Sano** - [https://medium.com/@coincrowdit](https://medium.com/@coincrowdit)
+8. **Jonathan Greenglass**
 
-9. **Pablo Ruiz** - [https://github.com/pabloruiz55](https://github.com/pabloruiz55)
+9. **Giulio Di Sano** - [https://medium.com/@coincrowdit](https://medium.com/@coincrowdit)
 
-10. **Giacomo Barbieri** - [https://bitcoin-tutorial.com](https://bitcoin-tutorial.com)
+10. **Pablo Ruiz** - [https://github.com/pabloruiz55](https://github.com/pabloruiz55)
 
-11. **Michelle Tsing** - [https://medium.com/@michelletsng/token-issuance-ico-best-practices-and-resources-deacb3bdf9b5](https://medium.com/@michelletsng/token-issuance-ico-best-practices-and-resources-deacb3bdf9b5)
+11. **Giacomo Barbieri** - [https://bitcoin-tutorial.com](https://bitcoin-tutorial.com)
+
+12. **Michelle Tsing** - [https://medium.com/@michelletsng/token-issuance-ico-best-practices-and-resources-deacb3bdf9b5](https://medium.com/@michelletsng/token-issuance-ico-best-practices-and-resources-deacb3bdf9b5)
+
+13. **--YOUR-NAME-HERE--**
 
 
 
