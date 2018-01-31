@@ -8,7 +8,7 @@ Here at [Thetta.io](https://web.thetta.io) our goal is to protect all parties: i
 
 Feel free to update and fix.
 
-[Direct link to the github repo is here](https://github.com/thetta).
+[Direct link to the github repo is here](https://github.com/Thetta/GitBook_ICO-Approaches).
 
 [Original GDoc with discussions and comment available here \(do not use it\).](https://docs.google.com/document/d/1hnMjwaaYUZGch-rprvAtqay9e_ivePCpezBY5ywrrKE/edit?ts=5a6b63ce)
 
