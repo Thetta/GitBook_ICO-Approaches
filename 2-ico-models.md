@@ -4,6 +4,6 @@ When discussing blockchains, the term “[protocol](https://blog.0xproject.com/t
 
 #### Protocol -&gt; Model -&gt; Approach
 
-We decided that "ICO Protocol" term is too strict.
-In many articles "ICO Model" term is used instead. However, we are using "Approach" in this document because this document is more about providing you with different real-world examples, then about strict classification. Remember, that many properties of these approaches can be combined together.
+We decided that the term "ICO protocol" is too strict.
+In many articles, the term "ICO model" is used instead. However, we prefer "ICO approach" as this document focuses more on providing diverse real-world examples, then on strict classification. Remember, many properties of these approaches can be combined.
 
