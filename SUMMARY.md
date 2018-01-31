@@ -1,5 +1,4 @@
 # Summary
-
 * [Introduction](README.md)
 * [ICO Features to consider](1-ico-options.md)
   * [Multiround](options_multiround.md)
