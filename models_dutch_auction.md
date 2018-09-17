@@ -1,4 +1,4 @@
-### **Reverse Dutch Auction approach \(Gnosis, RaidenNetwork, OraclesNetwork\)**
+### **Dutch Auction approach \(Gnosis, RaidenNetwork, OraclesNetwork\)**
 
 [**https://medium.com/@nickikwhite\_5051/token-sale-models-part-ii-price-schedules-b36716a1a9de**](https://medium.com/@nickikwhite_5051/token-sale-models-part-ii-price-schedules-b36716a1a9de)
 
